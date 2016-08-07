@@ -1,0 +1,45 @@
+.card {
+    font-family: Arial;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 5px 3px #bbb, -3px 8px 5px #eee, 3px 8px 5px #eee;
+}
+
+.title {
+    font-size: 26px;
+    margin: 8px 0 15px 5px;
+}
+
+.main-img {
+    width: 300px;
+    margin: auto;
+}
+
+.info-container {
+    border: 1px solid #ccc;
+    margin: 8px 0 3px 0;
+    padding: 10px 10px 20px 10px;
+    font-size: 14px;
+}
+
+p {
+    margin: 0;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.statistics {
+    list-style-type: none;
+    padding: 0;
+    margin: 14px 0;
+    font-style: italic;
+}
+
+.stat-name {
+    font-weight: bold;
+    font-style: normal;
+}
